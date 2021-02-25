@@ -5,9 +5,10 @@ composer install <br />
 php artisan key:generate <br />
 npm install && npm run dev <br />
 create a database simple-crud <br />
+php artisan migrate --seed <br />
 run the project php artisan serve <br />
 
-## Credentials
+## Login Credentials
 
 Username: admin@gmail.com <br />
 Password: admin123
